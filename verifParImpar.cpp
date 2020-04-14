@@ -3,7 +3,7 @@
 main(){
 	int conta;
 	
-	for(int c = 0; c < 100; c ++){
+	for(int c = 0; c <= 100; c ++){
 		conta = c % 2;
 		
 		if(conta == 0){
